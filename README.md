@@ -31,7 +31,7 @@
     ·
     <a href="https://github.com/Nirmal-Mudaliar/MemeShare-App/issues">Request Feature</a>
     <br>
-    <a href="https://drive.google.com/file/d/1zrVzwQQajaYcCv46PXqYw9XagCw20EVN/view?usp=sharing">Documentation (PDF)</a>
+    <a href="https://drive.google.com/file/d/1dq09CabeUo2XcORK4IBDlnNzULekcSm6/view?usp=sharing">Documentation (PDF)</a>
   </p>
 </p>
 
@@ -117,7 +117,7 @@ Project Link : [https://github.com/Nirmal-Mudaliar/MemeShare-App](https://github
 [contributors-shield]: https://img.shields.io/github/contributors/Nirmal-Mudaliar/MemeShare-App.svg?style=for-the-badge&color=brightgreen
 [contributors-url]: https://github.com/Nirmal-Mudaliar/MemeShare-App/graphs/contributors
 [forks-shield]:https://img.shields.io/github/forks/Nirmal-Mudaliar/MemeShare-App?style=for-the-badge
-[forks-url]: https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator/network/members
+[forks-url]: https://github.com/Nirmal-Mudaliar/MemeShare-App/network/members
 [issues-shield]: https://img.shields.io/github/issues/Nirmal-Mudaliar/MemeShare-App?style=for-the-badge
 [issues-url]: https://github.com/Nirmal-Mudaliar/MemeShare-App/issues
 [stars-shield]: https://img.shields.io/github/stars/Nirmal-Mudaliar/MemeShare-App?style=for-the-badge
