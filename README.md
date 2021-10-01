@@ -1,5 +1,5 @@
 # MemeShare-App
-Meme-Share fetches only memes from Reddit and allows you to share memes in all social media platforms.
+
 
 <br>
 
@@ -20,7 +20,7 @@ Meme-Share fetches only memes from Reddit and allows you to share memes in all s
   <h3 align="center">Meme-Share</h3>
 
   <p align="center">
-    A basic clook-disk-scheduling-algorithm simulating application
+    Allows you to watch and share memes in all social media platforms
     <br />
     <a href="https://github.com/Nirmal-Mudaliar/MemeShare-App"><strong>Explore the docs »</strong></a>
     <br />
@@ -61,7 +61,8 @@ Meme-Share fetches only memes from Reddit and allows you to share memes in all s
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][img1]](https://github.com/Nirmal-Mudaliar/MemeShare-App)
+Meme-Share fetches only memes from Reddit and allows you to share memes in all social media platforms.
+
 
 ### Built With
 * Kotlin
@@ -75,7 +76,8 @@ To get a local copy up and running follow these simple example steps.
 * Kotlin Basics
   
 <!-- USAGE EXAMPLES -->
-
+## Usages
+[![Product Name Screen Shot][img1]](https://github.com/Nirmal-Mudaliar/MemeShare-App)
  
 <!-- ROADMAP -->
 ## Roadmap
