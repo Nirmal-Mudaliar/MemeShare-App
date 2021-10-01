@@ -77,8 +77,8 @@ To get a local copy up and running follow these simple example steps.
   
 <!-- USAGE EXAMPLES -->
 ## Usages
-<img src="Screenshots/img2.jpg" alt="Logo" height="300px">
-<img src="Screenshots/img3.jpg" alt="Logo" height="300px">
+<img src="Screenshots/img2.jpg" alt="Logo" height="300px"> <img src="Screenshots/img3.jpg" alt="Logo" height="300px">
+
 
  
 <!-- ROADMAP -->
