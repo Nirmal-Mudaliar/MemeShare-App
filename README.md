@@ -77,9 +77,9 @@ To get a local copy up and running follow these simple example steps.
   
 <!-- USAGE EXAMPLES -->
 ## Usages
-<img src="Screenshots/img2.jpg" alt="Logo" height="100px">
-[![Product Name Screen Shot][img2]](https://github.com/Nirmal-Mudaliar/MemeShare-App)
-[![Product Name Screen Shot][img3]](https://github.com/Nirmal-Mudaliar/MemeShare-App)
+<img src="Screenshots/img2.jpg" alt="Logo" height="300px">
+<img src="Screenshots/img3.jpg" alt="Logo" height="300px">
+
  
 <!-- ROADMAP -->
 ## Roadmap
