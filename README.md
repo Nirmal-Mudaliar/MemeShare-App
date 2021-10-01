@@ -77,7 +77,8 @@ To get a local copy up and running follow these simple example steps.
   
 <!-- USAGE EXAMPLES -->
 ## Usages
-[![Product Name Screen Shot][img1]](https://github.com/Nirmal-Mudaliar/MemeShare-App)
+[![Product Name Screen Shot][img2]](https://github.com/Nirmal-Mudaliar/MemeShare-App)
+[![Product Name Screen Shot][img3]](https://github.com/Nirmal-Mudaliar/MemeShare-App)
  
 <!-- ROADMAP -->
 ## Roadmap
@@ -124,7 +125,8 @@ Project Link : [https://github.com/Nirmal-Mudaliar/MemeShare-App](https://github
 [license-url]: https://github.com/Nirmal-Mudaliar/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nirmal-mudaliar-318b14218/
-[img1]: Project-Images/img1.JPG
-[img2]: Project-Images/img2.JPG
-[img3]: Project-Images/img3.JPG
+[img1]: Screenshots/img1.JPG
+[img2]: Screenshots/img2.JPG
+[img3]: Screenshots/img3.JPG
+[img4]: Screenshots/img4.JPG
 
