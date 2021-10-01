@@ -125,8 +125,8 @@ Project Link : [https://github.com/Nirmal-Mudaliar/MemeShare-App](https://github
 [license-url]: https://github.com/Nirmal-Mudaliar/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nirmal-mudaliar-318b14218/
-[img1]: Screenshots/img1.JPG
-[img2]: Screenshots/img2.JPG
-[img3]: Screenshots/img3.JPG
-[img4]: Screenshots/img4.JPG
+[img1]: Screenshots/img1.jpg
+[img2]: Screenshots/img2.jpg
+[img3]: Screenshots/img3.jpg
+[img4]: Screenshots/img4.jpg
 
